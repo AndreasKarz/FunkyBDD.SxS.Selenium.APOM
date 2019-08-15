@@ -9,7 +9,7 @@
     <NeutralLanguage>en</NeutralLanguage>
     <PackageTags>selenium iwebelement bdd pom apom testing extension automated sxs</PackageTags>
     <RepositoryType>GIT</RepositoryType>
-    <PackageIconUrl>https://raw.githubusercontent.com/AndreasKarz/FunkyBDD.SxS.Selenium.WebElement/master/icon.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/AndreasKarz/FunkyBDD.SxS.Selenium.APOM/master/icon.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/AndreasKarz/FunkyBDD.SxS.Selenium.APOM</RepositoryUrl>
     <PackageProjectUrl>https://github.com/AndreasKarz/FunkyBDD.SxS.Selenium.APOM</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
