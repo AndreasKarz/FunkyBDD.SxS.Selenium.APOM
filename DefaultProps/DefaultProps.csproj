@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>FunkyBDD.SxS.Selenium.APOM</AssemblyName>
+    <RootNamespace>FunkyBDD.SxS.Selenium.APOM</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>Init</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>selenium iwebelement bdd pom apom testing extension automated sxs</PackageTags>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageIconUrl>https://raw.githubusercontent.com/AndreasKarz/FunkyBDD.SxS.Selenium.WebElement/master/icon.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/AndreasKarz/FunkyBDD.SxS.Selenium.APOM</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/AndreasKarz/FunkyBDD.SxS.Selenium.APOM</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>Swiss Life AG</Copyright>
+    <Description>Base Class for Selenium Page Objects for the POM and APOM principles.</Description>
+    <Authors>Andreas Karz</Authors>
+    <Company>Swiss Life AG</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+  </ItemGroup>
+
+</Project>
