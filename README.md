@@ -1,8 +1,8 @@
-# FunkyBDD.SxS.Selenium.WebElement
-Extensions for the **Selenium IWebElement**. Integrates properties that are always needed. Supports the POM and APOM principles.
+# FunkyBDD.SxS.Selenium.APOM
+Base class for Selenium POM and APOM objects.
 
 ```c#
-using FunkyBDD.SxS.Selenium.WebElement;
+using FunkyBDD.SxS.Selenium.APOM;
 
 public class Card : DefaultProps
 {
