@@ -5,7 +5,7 @@
     <AssemblyName>FunkyBDD.SxS.Selenium.APOM</AssemblyName>
     <RootNamespace>FunkyBDD.SxS.Selenium.APOM</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageReleaseNotes>Init</PackageReleaseNotes>
+    <PackageReleaseNotes></PackageReleaseNotes>
     <NeutralLanguage>en</NeutralLanguage>
     <PackageTags>selenium iwebelement bdd pom apom testing extension automated sxs</PackageTags>
     <RepositoryType>GIT</RepositoryType>
@@ -17,6 +17,7 @@
     <Description>Base Class for Selenium Page Objects for the POM and APOM principles.</Description>
     <Authors>Andreas Karz</Authors>
     <Company>Swiss Life AG</Company>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

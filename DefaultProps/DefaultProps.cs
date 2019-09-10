@@ -19,7 +19,7 @@ namespace FunkyBDD.SxS.Selenium.APOM
         /// <summary>
         ///   IWebElement to hold the base
         /// </summary>
-        public IWebElement Component;
+        public IWebElement Component { get; set; }
 
         /// <summary>
         ///   Get the wrapped IWebDriver of the Component
